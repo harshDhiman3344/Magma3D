@@ -374,7 +374,7 @@ canvas5()
 document.querySelector("#page6>h1").textContent.split("").forEach(function(dets){
   clutterPage6 += `<span>${dets}</span>`
 
-  document.querySelector("#page6>h1").innerHTML = clutterPage4;
+  document.querySelector("#page6>h1").innerHTML = clutterPage6;
 })
 
 
